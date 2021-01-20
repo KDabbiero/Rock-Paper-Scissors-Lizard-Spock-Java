@@ -25,5 +25,5 @@ java.util.Scanner   - to read and store the  users input
 
 # Future Work
 * Possibly add some simple graphics.
-* Make more use of an ArrayList.
+* Have the results be written to a file and the results of three games determine a grand champion.
 * Add more character options to expand the game.
