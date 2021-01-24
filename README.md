@@ -4,7 +4,7 @@ This piece of software will allow a user to play Rock Paper Scissors Lizard Spoc
 I wrote this software to demonstrate my skill in Java. I wanted to learn how to implement variables, expressions, conditionals, loops, functions, classes and arrayLists. 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/VWEAhKqQDB4)
 
 # Development Environment
 
