@@ -10,11 +10,15 @@ I wrote this software to demonstrate my skill in Java. I wanted to learn how to 
 
 
 VSCode
+
 GitHub
 
 Java 11
+
 java.util.ArrayList - to be able to implement an ArrayList
+
 java.util.Random    - to generate a random number
+
 java.util.Scanner   - to read and store the  users input
 
 # Useful Websites
